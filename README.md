@@ -1,5 +1,5 @@
 # Vendas_eletronicos_colab_analise
-<h1>Manipulação e análise de dados de vendas de eletrônicos no Google Colab</h1>
+<h1>Manipulação e análise de dados de vendas de eletrônicos de compressão de áudio no Google Colab</h1>
 <h3>Instelei o <a href= "https://www.youtube.com/watch?v=pLxgt20kKWU">Pandas Profiling</a> para um Overview da Análise Exploratória de Dados com uma única linha de código</h3>
 <h3>A descrição das linhas de código estão nos comentários.</h3>
 <h3> Pode ocorrer este WARNING no final da instalação do pip:</3>
